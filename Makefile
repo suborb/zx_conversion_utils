@@ -2,7 +2,7 @@
 CFLAGS ?= -g
 LDFLAGS ?= 
 
-TARGETS = plus3read plusdread deocp
+TARGETS = plus3read plusdread deocp plus3tap
 
 all: $(TARGETS)
 
